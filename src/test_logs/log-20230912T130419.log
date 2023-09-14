@@ -1,0 +1,8 @@
+560  [main] DEBUG org.testng.TestNG -- suiteXmlPath: "C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml"
+1010 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\kglaz\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+3843 [main] INFO  org.ait.phonebook.TestBase -- Start test loginPositiveTestWithScreenCast with Data: []
+30054 [main] INFO  org.ait.phonebook.TestBase -- PASSED: loginPositiveTestWithScreenCast
+30054 [main] INFO  org.ait.phonebook.TestBase -- Stop test
+30054 [main] ERROR org.ait.phonebook.TestBase -- ********************************************************
